@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Intro to Monte Carlo Method2"
+title:      "Intro to Monte Carlo Method"
 subtitle:   "Monte Carlo方法简介"
-date:       2017-08-04
+date:       2017-08-03
 author:     "Troy Wang"
 header-img: "img/post/monte-carlo.jpg"
 tags:
@@ -14,7 +14,7 @@ tags:
 
 > The Monte Carlo method is a numerical method of solving mathematical problems by random sampling (or by the simulation of random variables).
 
-[toc]
+{:toc}
 
 ## 概述
 [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method) (MCM)蒙特卡洛方法，是一类随机算法的统称，这些算法的共性是使用重复的随机抽样来进行数值计算。MCM获得的是相应问题的数值近似结果，采样次数越多，越接近真实值，即MCM一定会产出一个结果，且结果是近似的。如Sobol所述：
