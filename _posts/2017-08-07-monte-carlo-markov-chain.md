@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MCMC Method & M-H Algorithm & Gibbs Sampling"
-subtitle:   "模拟特卡路马尔科夫链，Metropolis-Hasting算法，Gibbs采样"
+subtitle:   "蒙特卡洛马尔科夫链，Metropolis-Hasting算法，Gibbs采样"
 date:       2017-08-07
 author:     "Troy Wang"
 header-img: "img/post/monte-carlo.jpg"
