@@ -8,10 +8,10 @@ header-img: "img/post/monte-carlo.jpg"
 tags:
     - Machine Learning
     - Mathmatics
+    - Sampling
 ---
 
-# Inverse Transforming Sampling
-
+* TOC
 {:toc}
 
 # 概述

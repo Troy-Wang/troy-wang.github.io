@@ -10,10 +10,7 @@ tags:
     - Mathmatics
 ---
 
-# Monte Carlo Method
-
-> The Monte Carlo method is a numerical method of solving mathematical problems by random sampling (or by the simulation of random variables).
-
+* TOC
 {:toc}
 
 ## 概述
