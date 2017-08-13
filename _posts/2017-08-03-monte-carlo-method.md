@@ -32,7 +32,7 @@ tags:
 
 为了计算圆周率，我们可以在下图的正方形中随机生成大量的点，落在下图圆弧中的点（图中红色的点）的数量，和总的点的数量的比，我们可以认为是四分之一圆和正方形面积之比。
 
-![Alt text](./1501658805826.png)
+![Alt text](/img/post/1501658805826.png)
 
 matlab示例代码如下：
 ```matlab
@@ -65,5 +65,5 @@ estimatedPi=hitCount/totalCount*4
 
 关于均值法计算定积分的直观解释，可以查看[这篇文章](http://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/monte-carlo-methods-in-practice/monte-carlo-integration)。这里简单说一下。在$[a,b]$之间随机取一个点$x_i$，图中暗色部分的面积即为$f(x_i)*(b-a)$，多次取点后的面积平均值即为所求积分。
 
-![Alt text](./1502029278658.png)
+![Alt text](/img/post/1502029278658.png)
 
