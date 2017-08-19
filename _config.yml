@@ -43,6 +43,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 kramdown:
 input: GFM                            # use Github Flavored Markdown !important
+use_coderay: true
 
 
 
