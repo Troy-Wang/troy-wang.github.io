@@ -100,3 +100,6 @@ friends: [
         href: "#"
     }
 ]
+
+plugins:
+  - jekyll-mermaid
