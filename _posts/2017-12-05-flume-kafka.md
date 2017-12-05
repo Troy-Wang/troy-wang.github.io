@@ -10,16 +10,6 @@ tags:
     - Kafka
 ---
 
-#### overview
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 #### 1. start zookeeper packaged with kafka
 
 ```bash
