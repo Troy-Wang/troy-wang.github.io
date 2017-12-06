@@ -116,10 +116,9 @@ agent1.channels.memoryChannel.transactionCapacity = 100
 #### 6. run test
 
 ```bash
+> echo 'test' >> log.file  
 > echo 'this is a flume test from troy' >> log.file
 ```
 python console output: 
-> Received message: test
-> Received message: this is a flume test from troy
-> Received message: this is a flume test from troyfasfdas
-> Received message: this is a flume test from troyfasfdas111
+> Received message: test  
+> Received message: this is a flume test from troy  
