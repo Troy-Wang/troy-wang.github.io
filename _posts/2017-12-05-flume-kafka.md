@@ -10,6 +10,16 @@ tags:
     - Kafka
 ---
 
+#### overview
+
+{ % mermaid % }
+sequenceDiagram
+    participant John
+    participant Alice
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+{ % endmermaid % }
+
 #### 1. start zookeeper packaged with kafka
 
 ```bash
@@ -70,7 +80,7 @@ c.close()
 
 flume-conf.properties:
 
-```properties
+```bash
 # The configuration file needs to define the sources, 
 # the channels and the sinks.
 # Sources, channels and sinks are defined per agent, 

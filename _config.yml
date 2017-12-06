@@ -101,5 +101,5 @@ friends: [
     }
 ]
 
-plugins:
-  - jekyll-mermaid
+mermaid:
+  src: '/js/mermaid.js'
