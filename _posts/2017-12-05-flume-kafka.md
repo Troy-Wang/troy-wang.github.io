@@ -12,13 +12,7 @@ tags:
 
 #### overview
 
-{ % mermaid % }
-sequenceDiagram
-    participant John
-    participant Alice
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-{ % endmermaid % }
+![overview](/img/post/FlumeKafka/overview.png)
 
 #### 1. start zookeeper packaged with kafka
 
