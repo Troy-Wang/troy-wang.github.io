@@ -4,7 +4,7 @@ title:      "Redis MindNode"
 subtitle:   "Redis关键点思维导图"
 date:       2018-02-22
 author:     "Troy Wang"
-header-img: "img/post/default-dusk.jpg"
+header-img: "img/post/default-sky.jpg"
 tags:
     - Redis
 ---
