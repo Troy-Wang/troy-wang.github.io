@@ -4,9 +4,9 @@ title:      "Spring In Action MindNode"
 subtitle:   "Spring In Action关键点思维导图"
 date:       2018-03-13
 author:     "Troy Wang"
-header-img: "img/post/default-sky.jpg"
+header-img: "img/post/hobbition1.jpg"
 tags:
-    - Redis
+    - Spring
 ---
 
 MindNode for [*Spring in Action*](https://www.manning.com/books/spring-in-action-fourth-edition)

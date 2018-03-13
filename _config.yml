@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Home is behind, the world ahead. And there are many paths to tread."
-sidebar-avatar: /img/portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/harry-potter-illustration.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
