@@ -16,3 +16,4 @@ MindNode for [*Spring in Action*](https://www.manning.com/books/spring-in-action
 ![SpringInActionMindNode3](/img/post/SpringInActionMindNode/spring_back_end.png)
 ![SpringInActionMindNode4](/img/post/SpringInActionMindNode/spring_integration.png)
 
+[Original mindnode files](https://github.com/Troy-Wang/troy-wang.github.io/tree/master/sources/spring_in_action)
