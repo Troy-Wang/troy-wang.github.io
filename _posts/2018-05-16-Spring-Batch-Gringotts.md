@@ -16,10 +16,14 @@ tags:
 
 A batch-processing system based on Spring Boot and Sping Batch.
 
+[Github Repository Here](https://github.com/Troy-Wang/SpringBatch_Gringotts)
+
 ## Introduction
 
 在百度的工作中，自己独立完成了两套基于SpringBatch的批处理系统，用在文件处理、对账、清结算、订单批处理等场景。
+
 Gringotts这是一个基于Spring boot和Spring batch的简单的批处理系统示例。
+
 你或许可以从这得到：
 1. How to construct a simple spring boot system
 2. How to integrate spring batch into spring boot
@@ -145,7 +149,7 @@ server.servlet.context-path=/
 
 #### Job构成
 
-![flow](https://github.com/Troy-Wang/Gringotts/blob/master/imgs/flow.jpg)
+![flow](/img/post/Gringotts/flow.jpg)
 
 #### Let's get started
 
