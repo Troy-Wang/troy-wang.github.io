@@ -246,19 +246,15 @@ jedis.disconnect();
 ```
 
 3. **使用连接池：**
-
 ```java
 JedisPoolConfig jedisPoolConfig = new JedisPoolConfig();
 ShardedJedisPool pool = new ShardedJedisPool(jedisPoolConfig, shards);
-
 try (ShardedJedis jedis = pool.getResource()) {
     jedis.set("a", "foo");
 }
-
 try (ShardedJedis jedis2 = pool.getResource()) {
     jedis2.set("z", "bar");
 }
-
 pool.close();
 ```
 
